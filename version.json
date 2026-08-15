@@ -1,4 +1,5 @@
 {
-  "version": "1.0.0",
-  "message": "You are using the latest version."
+  "version": "1.0.1",
+  "message": "New update available!",
+  "download_url": "YOUR_APK_URL_HERE"
 }
